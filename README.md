@@ -1,8 +1,8 @@
-![Notes-App](https://socialify.git.ci/Tejas1510/NoteApp-FTS/image?description=1&descriptionEditable=A%20noteapp%20built%20with%20Reactjs%20and%20Firebase%20to%20store%20all%20your%20note%20in%20a%20single%20place&font=KoHo&language=1&owner=1&pattern=Formal%20Invitation&stargazers=1&theme=Dark)
+![Notes-App](https://socialify.git.ci/Tejas1510/FTS-Task-2-Todo/image?description=1&language=1&owner=1&theme=Dark)
 
 ## Demonstration
 
-Watch the complete demonstration of the app I have created here : Project Demonstration Video
+Watch the complete demonstration of the app I have created here : [Project Demonstration Video](https://drive.google.com/file/d/165GA8zU2vVZlEQoy-pUGJnzoNTTJI3Xn/view?usp=sharing)
 
 ## 📌 Introduction
 
